@@ -8,7 +8,7 @@ namespace goodMorning
     {
         static void Main(string[] args)
         {
-            int time = 8;
+            int time = 22222222;
             if (time >= 20)
             {
                 Console.WriteLine("Good evening.");
